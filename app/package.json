@@ -1,0 +1,13 @@
+{
+  "name": "libreria-nosql-eval3",
+  "version": "1.0.0",
+  "description": "Evaluación Parcial 3 - Modelo NoSQL Librería",
+  "main": "src/demoLibros.js",
+  "scripts": {
+    "demo:libros": "node src/demoLibros.js",
+    "demo:ventas": "node src/demoVentas.js"
+  },
+  "dependencies": {
+    "mongodb": "^6.9.0"
+  }
+}
